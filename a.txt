@@ -1,3 +1,2 @@
 This is typed from vi editor.
-This a second edit..
 Added third line to test direct commit to local repo.
